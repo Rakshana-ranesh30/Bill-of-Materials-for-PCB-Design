@@ -59,12 +59,17 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
+<img width="1200" height="1600" alt="Screenshot bom" src="https://github.com/user-attachments/assets/b3bce58a-2908-45f5-b32c-b0b2e25ed1c1" />
+
+<img width="1200" height="1600" alt="screenshot bom2" src="https://github.com/user-attachments/assets/f4284e9e-5cc6-481e-a91a-feb08a88438c" />
+
 
 
 
 # Output
 
 
+<img width="1482" height="512" alt="WhatsApp Image 2026-10-15 at 23 12 19" src="https://github.com/user-attachments/assets/a0ca6a32-b922-4eb0-8d4e-a0f8a0b6b50a" />
 
 
 
