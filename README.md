@@ -69,7 +69,7 @@ During the product life, components may fail needing repair or upgrade. Here the
 # Output
 
 
-<img width="1482" height="512" alt="WhatsApp Image 2026-10-15 at 23 12 19" src="https://github.com/user-attachments/assets/a0ca6a32-b922-4eb0-8d4e-a0f8a0b6b50a" />
+<img width="1377" height="142" alt="image" src="https://github.com/user-attachments/assets/84421e98-1607-4124-a94c-8d42cb279948" />
 
 
 
